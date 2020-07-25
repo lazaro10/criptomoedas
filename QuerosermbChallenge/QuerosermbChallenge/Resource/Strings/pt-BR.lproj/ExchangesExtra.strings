@@ -1,0 +1,18 @@
+/* 
+  ExchangesExtra.strings
+  QuerosermbChallenge
+
+  Created by Lazaro on 17/07/20.
+  Copyright © 2020 LimasCompany. All rights reserved.
+*/
+
+"lastNegotiation" = "Última negociação";
+"totalSymbols" = "Total de símbolos";
+"sumAnHour" = "Somatorio de uma Hora";
+"firstQuotation" = "Primeira cotação";
+"lastQuotation" = "Última cotação";
+"firstPurchaseOrder" = "Primeira ordem de compra";
+"lastPurchaseOrder" = "Última ordem de compra";
+"firstNegotiation" = "Primeira negociação";
+"SumAnday" = "Somatorio um dia";
+"SumMonth" = "Somatorio um mês";

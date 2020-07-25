@@ -1,0 +1,10 @@
+/* 
+  API.strings
+  QuerosermbChallenge
+
+  Created by Lazaro on 17/07/20.
+  Copyright © 2020 LimasCompany. All rights reserved.
+*/
+
+"exchanges" = "https://rest.coinapi.io/v1/exchanges";
+"exchangesIcons" = "https://rest.coinapi.io/v1/exchanges/icons/500";

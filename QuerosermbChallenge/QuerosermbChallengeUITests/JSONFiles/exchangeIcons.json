@@ -1,0 +1,14 @@
+[
+    {
+        "exchange_id": "THEOCEAN",
+        "url": "https://s3.eu-central-1.amazonaws.com/bbxt-static-icons/type-id/png_512/7bb245d8ed5c470595e940f61e2e8e99.png"
+    },
+    {
+        "exchange_id": "OEX",
+        "url": "https://s3.eu-central-1.amazonaws.com/bbxt-static-icons/type-id/png_512/0499b4d7a1aa444dbe2bf11d22058c16.png"
+    },
+    {
+        "exchange_id": "HOTBIT",
+        "url": "https://s3.eu-central-1.amazonaws.com/bbxt-static-icons/type-id/png_512/8efeffca53074421aeef4cbb8b312c8c.png"
+    }
+]

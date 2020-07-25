@@ -1,0 +1,24 @@
+target 'QuerosermbChallenge' do
+
+  use_frameworks!
+
+  pod 'Alamofire', '~> 5.2'
+  pod 'Kingfisher', '~> 5.0'
+  pod 'NVActivityIndicatorView'
+  pod 'R.swift'
+
+  target 'QuerosermbChallengeTests' do
+    pod 'Quick'
+    pod 'Nimble'
+  end
+
+  target 'QuerosermbChallengeUITests' do
+    pod 'KIF'
+    pod 'FBSnapshotTestCase'
+    pod 'Nimble-Snapshots'
+    pod 'Nimble'
+    pod 'Quick'
+  end
+  
+end
+

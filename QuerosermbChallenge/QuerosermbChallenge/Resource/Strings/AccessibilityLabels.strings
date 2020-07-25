@@ -1,0 +1,12 @@
+/* 
+  AccessibilityLabels.strings
+  QuerosermbChallenge
+
+  Created by Lazaro on 18/07/20.
+  Copyright © 2020 LimasCompany. All rights reserved.
+*/
+
+"navigationApplicaton" = "Navigation View";
+"exchangeList" = "Exchange List";
+"exchangeCell" = "Exchange Cell";
+"exchangeDetail" = "Exchange Detail";
